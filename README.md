@@ -1,0 +1,2 @@
+# mikoscript
+my random script
