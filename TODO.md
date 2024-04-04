@@ -14,4 +14,6 @@
 - Splunk attack range - https://github.com/splunk/attack_range
 - Detection Lab - https://detectionlab.network/
 - TCM TCM-Academy Practical Ethical Hacker AD lab - https://github.com/Dewalt-arch/pimpmyadlab
+- ludus - https://gitlab.com/badsectorlabs/ludus
+- GOAD - https://github.com/Orange-Cyberdefense/GOAD
 
