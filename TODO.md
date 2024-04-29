@@ -17,3 +17,13 @@
 - ludus - https://gitlab.com/badsectorlabs/ludus
 - GOAD - https://github.com/Orange-Cyberdefense/GOAD
 
+# AI hype
+- https://github.com/sensity-ai/dot
+- https://github.com/myshell-ai/OpenVoice
+- https://github.com/snowzach/doods2
+- https://github.com/s0md3v/roop
+- https://github.com/C0untFloyd/roop-unleashed
+
+# Red
+- https://github.com/D00Movenok/BounceBack
+- https://github.com/SaadAhla/dropper
