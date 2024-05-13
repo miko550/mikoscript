@@ -27,3 +27,7 @@
 # Red
 - https://github.com/D00Movenok/BounceBack
 - https://github.com/SaadAhla/dropper
+
+# Web
+- https://github.com/webpwnized/mutillidae-dockerhub
+- http://ffuf.me/
