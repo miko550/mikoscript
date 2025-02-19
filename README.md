@@ -3,7 +3,7 @@ my random script
 
 ## Install docker
 ```
-wget https://raw.githubusercontent.com/miko550/mikoscript/main/getdocker.sh -O getdocker.sh && bash getdocker.sh
+wget https://raw.githubusercontent.com/miko550/mikoscript/main/getdockerV2.sh -O getdocker.sh && bash getdocker.sh
 ```
 
 ## Install openvpn VPN Server
