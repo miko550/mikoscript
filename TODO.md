@@ -34,3 +34,12 @@
 # Web
 - https://github.com/webpwnized/mutillidae-dockerhub
 - http://ffuf.me/
+
+# MCP
+- https://github.com/nanbingxyz/5ire
+- https://5ire.app/
+- https://socradar.io/mcp-servers-everything-you-need-to-know/
+- https://mcpsvr.com/
+- https://mcpserverhub.com/
+- https://www.hubmcp.dev/
+- https://github.com/modelcontextprotocol/servers
