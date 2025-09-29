@@ -20,3 +20,7 @@ wget https://raw.githubusercontent.com/miko550/mikoscript/main/getwazuh.sh -O ge
 ```
 wget https://raw.githubusercontent.com/miko550/mikoscript/main/wireguard-install.sh -O wireguard-install.sh && bash wireguard-install.sh
 ```
+## Install go
+```
+wget https://git.io/go-installer.sh && bash go-installer.sh
+```
