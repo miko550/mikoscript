@@ -26,5 +26,5 @@ wget https://git.io/go-installer.sh && bash go-installer.sh
 ```
 ## Setting up RDP with Xfce in Kali
 ```
-wget https://github.com/miko550/mikoscript/blob/main/setup_kali-rdp.sh && bash setup_kali-rdp.sh
+wget https://raw.githubusercontent.com/miko550/mikoscript/refs/heads/main/setup_kali-rdp.sh && bash setup_kali-rdp.sh
 ```
