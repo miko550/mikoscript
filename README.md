@@ -23,6 +23,9 @@ wget https://raw.githubusercontent.com/miko550/mikoscript/main/wireguard-install
 ## Install go
 ```
 wget https://git.io/go-installer.sh && bash go-installer.sh
+
+# doesn't download the script ~ runs the script directly
+bash <(curl -sL https://git.io/go-installer)
 ```
 ## Setting up RDP with Xfce in Kali
 ```
